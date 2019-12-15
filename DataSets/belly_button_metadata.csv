@@ -1,6 +1,6 @@
 sample,EVENT,ETHNICITY,GENDER,AGE,WFREQ,BBTYPE,LOCATION,COUNTRY012,ZIP012,COUNTRY1319,ZIP1319,DOG,CAT,IMPSURFACE013,NPP013,MMAXTEMP013,PFC013,IMPSURFACE1319,NPP1319,MMAXTEMP1319,PFC1319
 940,BellyButtonsScienceOnline,Caucasian,F,24,2,I,Beaufort/NC,usa,22306,usa,22306,no,no,8852,37.17222214,54.5,,1,,33.99000168,25.5
-941,,Caucasian/Midleastern,F,34,1,I,Chicago/IL,,,,,,,,,,,,,,
+941,BellyButtonsScienceOnline,Caucasian/Midleastern,F,34,1,I,Chicago/IL,,,,,,,,,,,,,,
 943,BellyButtonsScienceOnline,Caucasian,F,49,1,I,Omaha/NE,,,,,,,,,,,,,,
 944,BellyButtonsScienceOnline,European,M,44,1,I,NewHaven/CT,usa,7079,usa,8822,no,yes,,35.81666565,16,,0,6567,32.40333176,28.5
 945,BellyButtonsScienceOnline,Caucasian,F,48,1,I,Philidelphia/PA,usa,84404,usa,96025,no,no,,37.78333282,4,,0,5613,33.63444519,24
